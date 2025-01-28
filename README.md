@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Online Profile</title>
-</head>
+    My Online Profile
 <body>
     <!-- Menu Section -->
     <nav>
