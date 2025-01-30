@@ -1,4 +1,4 @@
-# Tyler Castillo<!DOCTYPE html>
+# Tyler Castillo
 <html lang="en">
 <head>
     <meta charset="UTF-8">
