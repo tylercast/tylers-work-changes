@@ -1,13 +1,12 @@
-# Tyler Castillo
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    My Online Profile
+    <title>Tyler Castillo</title>
     
-    <link re1="stylesheet" href="css/mycss_web.css" media="screen and (min-width: 768px)">
-    
-    <link re1="stylesheet" href="css/mycss-tablet.css" media=" screen and (max-width: 767px)">
+    <link rel="stylesheet" href="css/mycss_web.css" media="screen and (min-width: 768px)">
+    <link rel="stylesheet" href="css/mycss_tablet.css" media="screen and (max-width: 767px)">
 </head>
 <body>
     <!-- Menu Section -->
@@ -91,15 +90,11 @@
     <section id="favorites">
         <h1>Favorites</h1>
         <h2>Favorite Song</h2>
-        <video controls width="300">
-            <source src="https://www.youtube.com/watch?v=_RuuRU0bGLc" type="video/mp4">
-        </video>
+        <iframe width="300" height="169" src="https://www.youtube.com/embed/_RuuRU0bGLc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>My current favorite song by my favorite artist Tyler the Creator!</p>
 
         <h2>Favorite Movie</h2>
-        <video controls width="300">
-            <source src="https://www.youtube.com/watch?v=04-GgB5Yt2c" type="video/mp4">
-        </video>
+        <iframe width="300" height="169" src="https://www.youtube.com/embed/04-GgB5Yt2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>This is my current favorite movie, a classic starring Curtis "50 Cent" Jackson III.</p>
 
         <h2>Favorite TV Show</h2>
@@ -125,5 +120,3 @@
     </section>
 </body>
 </html>
-rs-work
-
