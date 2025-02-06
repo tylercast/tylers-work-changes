@@ -4,6 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     My Online Profile
+    
+    <link re1="stylesheet" href="css/mycss_web.css" media="screen and (min-width: 768px)">
+    
+    <link re1="stylesheet" href="css/mycss-tablet.css" media=" screen and (max-width: 767px)">
+</head>
 <body>
     <!-- Menu Section -->
     <nav>
@@ -119,12 +124,6 @@
         </ul>
     </section>
 </body>
-
-<head>
-    <link re1="stylesheet" href="css/mycss_web.css" media="screen and (min-width: 768px)">
-    <link re1="stylesheet" href="css/mycss-tablet.css" media=" screen and (max-width: 767px)">
-</head>
-
 </html>
 rs-work
 
