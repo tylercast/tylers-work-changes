@@ -119,6 +119,12 @@
         </ul>
     </section>
 </body>
+
+<head>
+    <link re1="stylesheet" href="css/mycss_web.css" media="screen and (min-width: 768px)">
+    <link re1="stylesheet" href="css/mycss-tablet.css" media=" screen and (max-width: 767px)">
+</head>
+
 </html>
 rs-work
 
