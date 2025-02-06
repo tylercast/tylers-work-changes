@@ -87,3 +87,41 @@ footer {
   background-color: #1e3a8a;
   color: #ff69b4; 
 }
+
+@media screen and (max-width: 767px) {
+ 
+  body {
+    background-color: #add8e6; 
+  }
+
+  header {
+    padding: 10px 0;
+  }
+
+  #profile img {
+    width: 80px; 
+    height: 80px;
+  }
+
+  #profile h1 {
+    font-size: 1.5rem;
+  }
+
+  nav ul {
+    text-align: left; 
+  }
+
+  nav ul li {
+    display: block; 
+    margin: 5px 0;
+  }
+
+  table {
+    font-size: 0.7rem; 
+  }
+
+  footer {
+    padding: 5px 0; 
+  }
+}
+
